@@ -1,9 +1,10 @@
 # Excelerated-App
-Software to optimize Rees Scientific temp/humidity probe certification 
+Simple software to optimize Rees Scientific temp/humidity probe certification 
 
-- Opens and edits multiple Excel files
-- Browses through data in excel to generate PDF certificates for each TH probe
-- Allows the user to view the process through the process bar
+- Opens and edits multiple Excel files containing probe testing data
+- Browses through data to generate PDF certificates for each TH probe
+- Saves certificates in the user-specified folder for concurrence
+- Allows the user to view the progress during process
 - written in Python
 
 Before Use:
